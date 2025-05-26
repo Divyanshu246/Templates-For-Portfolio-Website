@@ -1,0 +1,53 @@
+
+## 🚀 Features
+
+- **Responsive Design**: Fully responsive layout compatible with all screen sizes.
+- **Smooth Scrolling**: JavaScript-powered smooth transitions between sections.
+- **Typing Effect**: A typewriter animation displays the user's name on the hero section.
+- **Parallax Effect**: Scroll-based visual motion for the hero section.
+- **Interactive Navbar**:
+  - Dynamic background on scroll.
+  - Auto-highlighted active section links.
+- **Fade-in Animations**: Section content appears with smooth animation on scroll using Intersection Observer.
+- **Mobile Menu Toggle**: Hamburger menu functionality for mobile devices.
+- **Contact Section**: Displays contact info and social links with icons.
+- **Education & Certifications**:
+  - Timeline layout presenting education and professional certifications using appropriate icons.
+
+## 📚 Education & Certifications
+
+- **B.Tech in Computer Science**  
+  Specialization: Blockchain Technology  
+  `2022 - 2026`
+
+- **Certifications**:
+  - Python Essentials 2 – Cisco Networking Academy (May 2025)
+  - Networking Basics – Cisco Networking Academy (May 2025)
+  - Blockchain Basics – LinkedIn Learning (May 2025)
+  - PL/SQL Database Programming – Oracle (Nov 2024)
+  - Java Foundations – Oracle (Oct 2023)
+
+## 📞 Contact
+
+- 📍 City, State, Country  
+- 📱 +91-701XXXXXXX  
+- 📧 xyz@gmail.com  
+- 🔗 [LinkedIn](#) | [GitHub](#)
+
+## 🧪 Technologies Used
+
+- HTML5
+- CSS3 (with assumed transitions/animations)
+- JavaScript (ES6)
+- Font Awesome for Icons
+- Intersection Observer API
+- DOM Manipulation and Event Listeners
+
+## 🛠️ Setup Instructions
+
+To run this portfolio locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/portfolio-site.git
+   cd portfolio-site
